@@ -1,3 +1,14 @@
+# WHAT IS FIZZBUZZ?
+FizzBuzz is a common coding task given during interviews that tasks candidates to write a solution that prints integers one-to-N, labeling any integers divisible by three as “Fizz,” integers divisible by five as “Buzz” and integers divisible by both three and five as “FizzBuzz.”
+
+# Demo
+https://vladislavat.github.io/fizzbuzz-app/
+
+# TECHNOLOGIES
+- React
+- JS
+- Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
