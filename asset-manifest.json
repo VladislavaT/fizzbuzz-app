@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fizzbuzz-app/static/css/main.b3662f40.css",
+    "main.js": "/fizzbuzz-app/static/js/main.64b42a8d.js",
+    "static/js/787.e4705482.chunk.js": "/fizzbuzz-app/static/js/787.e4705482.chunk.js",
+    "index.html": "/fizzbuzz-app/index.html",
+    "main.b3662f40.css.map": "/fizzbuzz-app/static/css/main.b3662f40.css.map",
+    "main.64b42a8d.js.map": "/fizzbuzz-app/static/js/main.64b42a8d.js.map",
+    "787.e4705482.chunk.js.map": "/fizzbuzz-app/static/js/787.e4705482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3662f40.css",
+    "static/js/main.64b42a8d.js"
+  ]
+}
